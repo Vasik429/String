@@ -1,6 +1,6 @@
-exp = 'got_contact'
-print(exp[0])
-print(exp[-1])
-print(exp[5:])
-print(exp[::-1])
-print(exp[0:11:2])
+example = 'got_contact'
+print(example[0])
+print(example[-1])
+print(example[5:])
+print(example[::-1])
+print(example[1:11:2])
